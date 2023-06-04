@@ -1,0 +1,11 @@
+dash==2.5.1
+dash-bootstrap-components==1.1.0
+dash-bootstrap-templates==1.0.5
+dash-core-components=2.0.0
+dash-html-components==2.0.0
+dash-table=5.0.0
+json5==0.9.8
+jsonschema=4.5.1
+pandas
+plotly==5.8.0
+gunicorn
